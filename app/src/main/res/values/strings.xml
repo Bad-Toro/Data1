@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Data 1</string>
+    <string name="write">Write</string>
+    <string name="sign_out">Sign out</string>
+</resources>
